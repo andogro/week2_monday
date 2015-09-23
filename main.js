@@ -258,13 +258,13 @@ zoo.tiger.meals[1].wednesday = {breakfast: "pellets",
                                    lunch: "fish n chips",
                                    dinner: "bbq grass"
                                 }
-zoo.giraffe.meals[0].monday = {breakfast: "hay",
-                                lunch: "granola",
-                                dinner: "rockstar soup"
+zoo.giraffe.meals[0].monday = {breakfast: "banana",
+                                lunch: "lettuce",
+                                dinner: "veal"
                                 }
-zoo.giraffe.meals[1].wednesday = {breakfast: "pellets",
-                                  lunch: "fish n chips",
-                                  dinner: "bbq grass"
+zoo.giraffe.meals[1].wednesday = {breakfast: "leftover fish from the seals",
+                                  lunch: "butterfly wings",
+                                  dinner: "coins from fountain"
                                   }
 
 console.log(zoo);
