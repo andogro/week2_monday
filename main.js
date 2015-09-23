@@ -271,6 +271,3 @@ console.log(zoo.elephant.meals[0]);
                 // 30. This joker wants you to add the "hireDate" for each zookeeper. Within the empty array attached to each name, assign a key/value pair of
                 // "hireDate" and the value being a string of hire date.
 
-
-
-               console.log(phoneNum);
